@@ -6,6 +6,8 @@ Docker image for Powershell
 
 ## Build
 
+[Dockerfile](https://github.com/sebthebert/Docker-Powershell/blob/master/Dockerfile) to build this image.
+
 ```
 docker build -t powershell https://raw.githubusercontent.com/sebthebert/Docker-Powershell/master/Dockerfile
 ```
